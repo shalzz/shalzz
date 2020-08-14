@@ -1,8 +1,8 @@
-Currently working on a DeFi app on Ethereum and associated projects. [Follow @shalzz on Twitter](https://twitter.com/shalzzj).
+Currently working on a DeFi app for Ethereum. [Follow @shalzz on Twitter](https://twitter.com/shalzzj) for updates.
 
 <table><tr><td valign="top" style="width: 50%;">
 
-### Recent releases (for project)
+### Recent releases
 <!-- recent_releases starts -->
 * [shalzz/lighthouse-docker First Release for an ARM platform](https://github.com/shalzz/lighthouse-docker/releases/tag/v0.1) - 2020/08/14
 * [shalzz/ethereum-worker v1.0 Public Release](https://github.com/shalzz/ethereum-worker/releases/tag/v1.0) - 2020/08/14
