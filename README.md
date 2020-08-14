@@ -1,4 +1,4 @@
-Currently working on DeFi app on Ethereum and associated projects. [Follow me on Twitter](https://twitter.com/shalzzj).
+Currently working on a DeFi app on Ethereum and associated projects. [Follow @shalzz on Twitter](https://twitter.com/shalzzj).
 
 <table><tr><td valign="top" style="width: 50%;">
 
