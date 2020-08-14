@@ -4,6 +4,10 @@ Currently working on a DeFi app on Ethereum and associated projects. [Follow @sh
 
 ### Recent releases (for project)
 <!-- recent_releases starts -->
+* [shalzz/lighthouse-docker First Release for an ARM platform](https://github.com/shalzz/lighthouse-docker/releases/tag/v0.1) - 2020/08/14
+* [shalzz/ethereum-worker v1.0 Public Release](https://github.com/shalzz/ethereum-worker/releases/tag/v1.0) - 2020/08/14
+* [shalzz/wasm-game-of-life Release with double framebuffer support](https://github.com/shalzz/wasm-game-of-life/releases/tag/v1.0) - 2020/08/14
+* [shalzz/ambassador-rust-ratelimiter First public release](https://github.com/shalzz/ambassador-rust-ratelimiter/releases/tag/v0.2) - 2020/08/14
 * [shalzz/zola-deploy-action Zola v0.11.0](https://github.com/shalzz/zola-deploy-action/releases/tag/v0.11.0) - 2020/05/30
 * [shalzz/GPL Initial Release Version](https://github.com/shalzz/GPL/releases/tag/v1.00) - 2013/07/27
 <!-- recent_releases ends -->
