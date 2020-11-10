@@ -16,7 +16,11 @@ Currently working on a DeFi app for Ethereum. [Follow @shalzzj on Twitter](https
 
 ### On my blog
 <!-- blog starts -->
-
+* [Giving Power Back to the Indian People](https://shaleenjain.com/blog/federal-system-india/) - 2020/06/10
+* [Home Media Streaming Server with Wireguard and OpenWRT](https://shaleenjain.com/blog/streaming-server/) - 2019/12/01
+* [The Year of Blockchain](https://shaleenjain.com/blog/the-year-of-blockchain/) - 2019/07/22
+* [Blogging: From Jekyll to Zola](https://shaleenjain.com/blog/switching-blog-to-zola/) - 2019/02/01
+* [DLNA/UPNP casting support in VLC - Part 2](https://shaleenjain.com/blog/vlc-dlna-support-2/) - 2019/01/12
 <!-- blog ends -->
 More on [shaleenjain.com](https://shaleenjain.com/)
 </td></tr></table>
