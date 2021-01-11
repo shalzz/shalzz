@@ -4,7 +4,7 @@ Currently working on a DeFi app for Ethereum. [Follow @shalzzj on Twitter](https
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [shalzz/zola-deploy-action v0.12.0](https://github.com/shalzz/zola-deploy-action/releases/tag/v0.12.0) - 2020/09/07
+* [shalzz/zola-deploy-action v0.13.0](https://github.com/shalzz/zola-deploy-action/releases/tag/v0.13.0) - 2021/01/10
 * [shalzz/wasm-game-of-life v1.0](https://github.com/shalzz/wasm-game-of-life/releases/tag/v1.0) - 2020/08/14
 * [shalzz/lighthouse-docker v0.1](https://github.com/shalzz/lighthouse-docker/releases/tag/v0.1) - 2020/08/14
 * [shalzz/ethereum-worker v1.0](https://github.com/shalzz/ethereum-worker/releases/tag/v1.0) - 2020/08/14
