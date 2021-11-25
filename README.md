@@ -17,7 +17,11 @@ Currently working on a DeFi app for Ethereum. [Follow @shalzzj on Twitter](https
 
 ### On my blog
 <!-- blog starts -->
-
+* [Should you buy Bitcoin in India? A Buyers Guide](https://shaleenjain.com/blog/bitcoin-buying-guide/) - 2021/05/26
+* [Owning your DNS Stack: Towards a more Decentralized Internet](https://shaleenjain.com/blog/decentralized-dns/) - 2021/01/08
+* [Giving Power Back to the Indian People](https://shaleenjain.com/blog/federal-system-india/) - 2020/06/10
+* [Home Media Streaming Server with Wireguard and OpenWRT](https://shaleenjain.com/blog/streaming-server/) - 2019/12/01
+* [The Year of Blockchain](https://shaleenjain.com/blog/the-year-of-blockchain/) - 2019/07/22
 <!-- blog ends -->
 More on [shaleenjain.com](https://shaleenjain.com/)
 </td></tr></table>
