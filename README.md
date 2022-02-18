@@ -5,7 +5,6 @@ Currently working on a DeFi app for Ethereum. [Follow @shalzzj on Twitter](https
 ### Recent releases
 <!-- recent_releases starts -->
 * [shalzz/zola-deploy-action v0.15.3](https://github.com/shalzz/zola-deploy-action/releases/tag/v0.15.3) - 2022/01/24
-* [hats-finance/hats-contracts v1.0](https://github.com/hats-finance/hats-contracts/releases/tag/v1.0) - 2021/08/01
 * [shalzz/college-academics v3.7.6](https://github.com/shalzz/college-academics/releases/tag/v3.7.6) - 2021/07/03
 * [shalzz/ethereum-worker v1.0](https://github.com/shalzz/ethereum-worker/releases/tag/v1.0) - 2020/08/14
 * [shalzz/wasm-game-of-life v1.0](https://github.com/shalzz/wasm-game-of-life/releases/tag/v1.0) - 2020/08/14
