@@ -4,6 +4,7 @@ Currently working on a DeFi app for Ethereum. [Follow @shalzzj on Twitter](https
 
 ### Recent releases
 <!-- recent_releases starts -->
+* [shalzz/mates.rs v1.0.0](https://github.com/shalzz/mates.rs/releases/tag/v1.0.0) - 2022/04/26
 * [shalzz/zola-deploy-action v0.15.3](https://github.com/shalzz/zola-deploy-action/releases/tag/v0.15.3) - 2022/01/24
 * [shalzz/college-academics v3.7.6](https://github.com/shalzz/college-academics/releases/tag/v3.7.6) - 2021/07/03
 * [shalzz/ethereum-worker v1.0](https://github.com/shalzz/ethereum-worker/releases/tag/v1.0) - 2020/08/14
