@@ -5,8 +5,8 @@ Currently working on a DeFi app for Ethereum. [Follow @shalzzj on Twitter](https
 ### Recent releases
 <!-- recent_releases starts -->
 * [shalzz/mates.rs v1.0.0](https://github.com/shalzz/mates.rs/releases/tag/v1.0.0) - 2022/04/26
-* [shalzz/wasm-game-of-life v1.0](https://github.com/shalzz/wasm-game-of-life/releases/tag/v1.0) - 2020/08/14
 * [shalzz/ethereum-worker v1.0](https://github.com/shalzz/ethereum-worker/releases/tag/v1.0) - 2020/08/14
+* [shalzz/wasm-game-of-life v1.0](https://github.com/shalzz/wasm-game-of-life/releases/tag/v1.0) - 2020/08/14
 * [shalzz/ambassador-rust-ratelimiter v0.2](https://github.com/shalzz/ambassador-rust-ratelimiter/releases/tag/v0.2) - 2020/08/14
 * [shalzz/lighthouse-docker v0.1](https://github.com/shalzz/lighthouse-docker/releases/tag/v0.1) - 2020/08/14
 * [shalzz/zola-deploy-action v0.11.0](https://github.com/shalzz/zola-deploy-action/releases/tag/v0.11.0) - 2020/05/30
