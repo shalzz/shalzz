@@ -9,8 +9,8 @@ Currently working on a DeFi app for Ethereum. [Follow @shalzzj on Twitter](https
 * [shalzz/wasm-game-of-life v1.0](https://github.com/shalzz/wasm-game-of-life/releases/tag/v1.0) - 2020/08/14
 * [shalzz/ambassador-rust-ratelimiter v0.2](https://github.com/shalzz/ambassador-rust-ratelimiter/releases/tag/v0.2) - 2020/08/14
 * [shalzz/lighthouse-docker v0.1](https://github.com/shalzz/lighthouse-docker/releases/tag/v0.1) - 2020/08/14
-* [shalzz/zola-deploy-action v0.11.0](https://github.com/shalzz/zola-deploy-action/releases/tag/v0.11.0) - 2020/05/30
-* [shalzz/college-academics v3.6.6](https://github.com/shalzz/college-academics/releases/tag/v3.6.6) - 2019/11/23
+* [shalzz/zola-deploy-action v0.5.0](https://github.com/shalzz/zola-deploy-action/releases/tag/v0.5.0) - 2019/03/26
+* [shalzz/college-academics v2.5.0](https://github.com/shalzz/college-academics/releases/tag/v2.5.0) - 2016/07/16
 * [shalzz/GPL v1.00](https://github.com/shalzz/GPL/releases/tag/v1.00) - 2013/07/27
 <!-- recent_releases ends -->
 </td><td valign="top" style="width: 50%;">
