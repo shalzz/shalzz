@@ -17,11 +17,11 @@ Currently working on a DeFi app for Ethereum. [Follow @shalzzj on Twitter](https
 
 ### On my blog
 <!-- blog starts -->
+* [My Personal Journey and Why I'm building a New Earth](https://shaleenjain.com/blog/personal-story-and-new-earth/) - 2023/09/30
 * [Getting started with Ethereum and Solidity](https://shaleenjain.com/blog/learning-solidity/) - 2023/09/29
 * [Why Deploy your Own VPN Server?](https://shaleenjain.com/blog/deploy-self-vpn/) - 2023/07/28
 * [My Journey with Estonia's E-residency program](https://shaleenjain.com/blog/review-e-residency/) - 2022/10/26
 * [Circumventing CG-NAT with Wireguard](https://shaleenjain.com/blog/wireguard-cgnat-bypass/) - 2022/10/17
-* [Forwarding Calls and Texts Internationally with a VoIP Server and Modem](https://shaleenjain.com/blog/asterisk-sip-server/) - 2022/06/04
 <!-- blog ends -->
 More on [shaleenjain.com](https://shaleenjain.com/)
 </td></tr></table>
