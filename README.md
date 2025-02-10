@@ -17,11 +17,11 @@ Currently working on a DeFi app for Ethereum. [Follow @shalzzj on Twitter](https
 
 ### On my blog
 <!-- blog starts -->
+* [Capitalism is Build on Aesthetics](https://shaleenjain.com/blog/form-over-function/) - 2024/12/03
 * [OSHO International Meditation Resort](https://shaleenjain.com/blog/oimr/) - 2024/05/14
 * [Sharing Joy and Love](https://shaleenjain.com/blog/sharing-joy-love/) - 2024/05/13
 * [What is The Soulful Events Newsletter?](https://shaleenjain.com/blog/why-soulfulevents/) - 2023/12/06
 * [The Joys of Traveling](https://shaleenjain.com/blog/joys-of-traveling/) - 2023/11/24
-* [My Personal Journey and Why I'm building a New Earth](https://shaleenjain.com/blog/personal-story-and-new-earth/) - 2023/09/30
 <!-- blog ends -->
 More on [shaleenjain.com](https://shaleenjain.com/)
 </td></tr></table>
