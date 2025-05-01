@@ -1,21 +1,14 @@
-name: keepalive
+name: Tests
 
 on:
   schedule:
     - cron: "0 0 * * *"
 
-permissions:
-  actions: write
-
 jobs:
-  keepalive:
+  workflow-keepalive:
+    if: github.event_name == 'schedule'
     runs-on: ubuntu-latest
+    permissions:
+      actions: write
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Keepalive
-        uses: gautamkrishnar/keepalive-workflow@v2
-        with:
-          workflow_files: "build.yml"
-          time_elapsed: "0"
+      - uses: liskin/gh-workflow-keepalive@v1
