@@ -17,11 +17,11 @@ Currently working on a DeFi app for Ethereum. [Follow @shalzzj on Twitter](https
 
 ### On my blog
 <!-- blog starts -->
+* [Dharmalaya - A Dysfunctional Institute](https://shaleenjain.com/blog/dharmalaya/) - 2025/06/30
 * [Contact Improvisation as a Somatics Approach](https://shaleenjain.com/blog/ci-somatics/) - 2025/06/13
 * [Being an Adult and the Games we Play](https://shaleenjain.com/blog/being-an-adult/) - 2025/02/16
 * [Capitalism is Build on Aesthetics](https://shaleenjain.com/blog/form-over-function/) - 2024/12/03
 * [OSHO International Meditation Resort](https://shaleenjain.com/blog/oimr/) - 2024/05/14
-* [Sharing Joy and Love](https://shaleenjain.com/blog/sharing-joy-love/) - 2024/05/13
 <!-- blog ends -->
 More on [shaleenjain.com](https://shaleenjain.com/)
 </td></tr></table>
